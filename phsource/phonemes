@@ -1984,3 +1984,5 @@ include ph_greenlandic
 //phonemetable en-test base
 //include ph_english_test
 
+phonemetable mnc base
+include ph_manchu
