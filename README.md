@@ -15,4 +15,19 @@ espeak-data\oices\mnc
 phsource\phonemes 引入mnc
 语音相关
 
+修改：安装eSpeak后，如下路径D:\Program Files (x86)\eSpeak 其他盘也可以
+checkout 代码：
+git clone git@github.com:manchuwork/manchu-tts-eSpeak.git eSpeak
+当然，直接替换上面提到的文件也可以
+将路径D:\Program Files (x86)\eSpeak\command_line加入path
+
+
+
+编译文件：espeak --compile=mnc
+朗读测试：
+>espeak -vmnc
+Unknown phoneme table: 'mnc'
+na
+ne
+ni
 
