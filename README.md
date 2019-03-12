@@ -1,5 +1,7 @@
 # manchu-tts-eSpeak
-基于eSpeak 编译满族语言tts发音，满语发音，测试项目，很不完善
+基于eSpeak http://espeak.sourceforge.net/
+
+编译满族语言tts发音，满语发音，测试项目，很不完善
 基于win平台的代码，D:\Program Files (x86)\eSpeak，安装
 
 主要修改文件
