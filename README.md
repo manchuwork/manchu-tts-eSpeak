@@ -2,7 +2,7 @@
 基于eSpeak http://espeak.sourceforge.net/
 
 编译满族语言tts发音，满语发音，测试项目，很不完善
-基于win平台的代码，D:\Program Files (x86)\eSpeak，安装
+基于win平台的代码，D:\Program Files (x86)\eSpeak，安装（win平台依赖少些，开始启动快些）
 
 主要修改文件
 espeak目录
@@ -31,3 +31,6 @@ na
 ne
 ni
 
+
+
+备注：训练好的文件，可以放到其他的环境，有支持web发音的相关方案，直接在线朗读
