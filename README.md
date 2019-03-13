@@ -23,9 +23,10 @@ git clone git@github.com:manchuwork/manchu-tts-eSpeak.git eSpeak
 
 
 
-编译文件：espeak --compile=mnc
+编译文件：
+```espeak --compile=mnc```
 朗读测试：
->espeak -vmnc
+``espeak -vmnc``
 Unknown phoneme table: 'mnc'
 na
 ne
