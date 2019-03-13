@@ -29,12 +29,13 @@ espeak --compile=mnc
 ```
 朗读测试：
 ```
-espeak -vmnc``
+espeak -vmnc
 ```
 Unknown phoneme table: 'mnc'
 na
 ne
-ni```
+ni
+```
 
 
 
